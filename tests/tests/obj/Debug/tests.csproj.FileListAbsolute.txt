@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\tests\tests\bin\tests.dll
+C:\Users\admin\Desktop\tests\tests\bin\tests.pdb
+C:\Users\admin\Desktop\tests\tests\obj\Debug\tests.dll
+C:\Users\admin\Desktop\tests\tests\obj\Debug\tests.pdb
