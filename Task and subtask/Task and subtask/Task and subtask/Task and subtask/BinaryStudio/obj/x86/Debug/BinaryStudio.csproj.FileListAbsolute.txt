@@ -1,0 +1,27 @@
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.exe
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.pdb
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Properties.Resources.resources
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Task.resources
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.exe
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.pdb
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Subtask.resources
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.exe
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.pdb
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.exe
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.pdb
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csprojResolveAssemblyReference.cache
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Properties.Resources.resources
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Subtask.resources
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Task.resources
+F:\Users\Jaroslav\Desktop\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.exe
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.pdb
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.exe
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\bin\Debug\BinaryStudio.pdb
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Properties.Resources.resources
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Subtask.resources
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.Task.resources
+C:\Users\admin\Desktop\HomeTaskBinaryStudio (1)\HomeTaskBinaryStudio\HomeTaskBinaryStudio\BinaryStudio\BinaryStudio\obj\x86\Debug\BinaryStudio.csproj.GenerateResource.Cache
